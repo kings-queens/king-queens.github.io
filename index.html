@@ -41,12 +41,13 @@
     <!-- End Single Page Apps for GitHub Pages -->
 </head>
 
-<body>
-    <app>Loading...</app>
-    
+<body>    
     <script src="decode.js"></script>
+   
     
-      <script>
+    <script src="_framework/blazor.webassembly.js"></script>
+    
+        <script>
         Blazor.start({
             loadBootResource: function (type, name, defaultUri, integrity) {
                 // For framework resources, use the precompressed .br files for faster downloads
@@ -68,7 +69,7 @@
         });
     </script>
     
-    <script src="_framework/blazor.webassembly.js"></script>
+    <app>Loading...</app>
   
 </body>
 
