@@ -189,9 +189,9 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-co54RLjVAHK2HntQfZykJrT9xAeVJSUp0TDu4aKONNQ=",
       "Newtonsoft.Json.dll": "sha256-mRd6TL4DYldo1ko9czkjEDcoiPdMPrJxz3dekwV6OOY=",
       "System.IO.Pipelines.dll": "sha256-PgYFI7F+NQs9abrlcOtWBO+dScC0UITrX0CFB5tqUtI=",
-      "Doom Bot.Shared.dll": "sha256-\/vKn2LGLGXxnyqyYjgsIh2K\/szf2F4xKBwMzwAn8DRk=",
+      "Doom Bot.Shared.dll": "sha256-NHiUvAzlBU2tw0nfQX6TX7WyFWN5+syIrZRGn1m5Xrs=",
       "Recycler.dll": "sha256-sg\/t\/nMv1A\/sTmSV5wCJX57d9UpcQTd+OxFRfrw3FJY=",
-      "Doom Bot.Client.dll": "sha256-b2vG697hmUEvlydj8FMQGwGgAiICmiABDJkF4mbXMKI="
+      "Doom Bot.Client.dll": "sha256-tn7aAvefTMhw9ZZVCgAELU+oXAllGfQIJg\/9XxJYRwY="
     },
     "lazyAssembly": null,
     "pdb": null,
