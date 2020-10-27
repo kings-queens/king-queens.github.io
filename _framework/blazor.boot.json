@@ -191,7 +191,7 @@
       "System.IO.Pipelines.dll": "sha256-PgYFI7F+NQs9abrlcOtWBO+dScC0UITrX0CFB5tqUtI=",
       "Doom Bot.Shared.dll": "sha256-NHiUvAzlBU2tw0nfQX6TX7WyFWN5+syIrZRGn1m5Xrs=",
       "Recycler.dll": "sha256-sg\/t\/nMv1A\/sTmSV5wCJX57d9UpcQTd+OxFRfrw3FJY=",
-      "Doom Bot.Client.dll": "sha256-tn7aAvefTMhw9ZZVCgAELU+oXAllGfQIJg\/9XxJYRwY="
+      "Doom Bot.Client.dll": "sha256-eiUaXCg2uc5Y\/1fEb1kMqZqEKA7+zcvAKdd7wqSeIMY="
     },
     "lazyAssembly": null,
     "pdb": null,
