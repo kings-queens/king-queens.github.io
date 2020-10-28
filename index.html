@@ -64,14 +64,12 @@
 
             </div>
         </section>
-</app>
+    </app>
 
     <script src="decode.js"></script>
     <script src="_framework/blazor.webassembly.js" autostart="false"></script>
     <script>
-        try
-        {
-            Blazor.start({
+        Blazor.start({
             loadBootResource: function (type, name, defaultUri, integrity) {
                 // For framework resources, use the precompressed .br files for faster downloads
                 // This is needed only because GitHub pages doesn't natively support Brotli (or even gzip for .dll files)
@@ -90,12 +88,6 @@
                 }
             }
         });
-        }
-        
-        catch
-        {
-            
-        }
     </script>
 </body>
 
